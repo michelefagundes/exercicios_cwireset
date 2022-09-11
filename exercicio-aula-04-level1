@@ -1,0 +1,12 @@
+let nomeCompleto = "Michele Fagundes Santos";
+let apelido = "Mimi";
+let idade = "24";
+let dataNascimento = "09/10/1997";
+let localNascimento = "Porto Alegre";
+let altura = "1.62";
+let trabalhando = "empregada";
+
+apresentacao = 
+  "Meu nome é " + nomeCompleto + "Sou conhecida como "  +  apelido + " e tenho " + idade +" anos. Nasci no dia " +   dataNascimento + " na cidade de " + localNascimento + ". Tenho " + altura+ "m de altura e atualmente estou " + (trabalhando) + "."
+
+console.log(apresentacao)
