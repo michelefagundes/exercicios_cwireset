@@ -1,0 +1,21 @@
+Se tiver queijo na geladeira
+	tirar ele da geladeira e colocar em cima da mesa
+  
+Senão conferir se tem requeijão na geladeira	
+	tirar o requeijão da geladeira e colocar em cima da mesa
+  
+Pegar o pão no armário e colocar em cima da mesa
+Pegar uma faca na gaveta e colocar ao lado do pão
+Pegar a faca e cortar o pão ao meio Então
+  Largar a faca
+Pegar uma fatia de queijo e colocar na parte de dentro do pão
+Senão 
+	pegar uma colher da gaveta e tirar uma colher com requeijão de dentro do pote
+  
+Então 
+  colocar na parte de dentro do pão
+  
+Espalhar o requeijão com a colher
+Largar a colher
+Fechar o pão
+Servir o pão para quem vai comer
