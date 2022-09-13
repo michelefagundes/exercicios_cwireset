@@ -1,0 +1,64 @@
+//exercicio1
+
+primeiroNome = "Bruna"
+segundoNome = "Ana"
+
+mesmoNome = (primeiroNome == segundoNome)
+
+console.log(mesmoNome)
+
+//exercicio2
+
+maiorDeIdade = 18
+idade = 21
+
+console.log(idade >= maiorDeIdade)
+
+//exercicio3
+
+boleto = 100
+valorComJuros = boleto + 100*0.1
+
+console.log(valorComJuros)
+
+//exercicio4
+
+item1 = 2
+item2 = 5
+item3 = 17
+item4 = 150
+item5 = 12
+
+media = item1 + item2 + item3 + item4 + item5
+mediaAritimetica = media / 5
+
+console.log(mediaAritimetica)
+
+// exercicio5
+
+custoProdutosVendidos = 24000
+receitaLiquida = 75000
+
+lucroBruto = receitaLiquida - custoProdutosVendidos
+margemBruta = lucroBruto / receitaLiquida
+
+console.log(margemBruta*100)
+
+//exercicio6
+
+saldoConta = 1000.00
+calca = 99.90
+salario = 2500.00
+doacao = 0.10
+
+saldoAtual = saldoConta - calca + salario - doacao
+
+arCondicionado = saldoAtual*0.25
+
+saldoAtual2 = saldoAtual - arCondicionado
+
+antecipacaoDeConta = saldoAtual2 / 2
+
+saldoFinal = antecipacaoDeConta
+
+console.log(saldoFinal)
